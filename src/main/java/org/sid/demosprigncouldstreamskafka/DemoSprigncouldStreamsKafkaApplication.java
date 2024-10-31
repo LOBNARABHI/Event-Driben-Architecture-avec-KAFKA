@@ -1,0 +1,13 @@
+package org.sid.demosprigncouldstreamskafka;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoSprigncouldStreamsKafkaApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DemoSprigncouldStreamsKafkaApplication.class, args);
+    }
+
+}
